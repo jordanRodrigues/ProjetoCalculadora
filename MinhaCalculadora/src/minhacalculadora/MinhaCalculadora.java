@@ -18,6 +18,7 @@ public class MinhaCalculadora {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Minha calculadora");
+        System.out.println("Italo Folgado");
     }
     
 }
